@@ -5,6 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khushvibamrolia/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/khushvi__._/)](https://www.instagram.com/khushvi__._)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khushvi.bamrolia28@gmail.com)
+---
+[![](https://visitcount.itsvg.in/api?id=KhushviB&icon=1&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 - 💻Aspiring Software Engineer with a strong foundation in computer science and hands-on experience in developing software applications.
 - 😃 I love exploring the coding fields, new stuff upcoming in coding areas, attracts me, and makes me fill the challenging, loves to solve this challenges.
@@ -43,8 +45,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhushviB&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushviB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KhushviB&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KhushviB&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=KhushviB&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KhushviB&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
