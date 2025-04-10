@@ -20,6 +20,9 @@
 
 - Data Structures & Algorithms
 - Software Development Models
+- Machine Learning
+- ML Model Integration
+- ML Algorithm Analysis
 - Java Programming
 - Python
 - ReactJs
