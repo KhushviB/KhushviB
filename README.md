@@ -8,10 +8,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KhushviB&icon=1&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-- 💻Aspiring Software Engineer with a strong foundation in computer science and hands-on experience in developing software applications.
-- 😃 I love exploring the coding fields, new stuff upcoming in coding areas, attracts me, and makes me fill the challenging, loves to solve this challenges.
-- 🌱Currently exploring the world of Expanding Technologies. Always a learner, in a state of learning new Stuff
-- ✌️I have taught Python, php, Wordpress, Web Development.
+I'm a Full Stack Software Engineer with 2+ years of experience building scalable, production-grade platforms using Rust, Python, React, and Flutter. I’ve led the end-to-end development of 4+ impactful applications in domains like education, ML, and real-time systems.
+
+With a solid foundation in data structures, algorithms, and distributed systems, I enjoy solving deep tech challenges — from backend API design to ML inference optimization. I thrive in collaborative teams, write clean modular code, and constantly push systems to run faster, leaner, and smarter.
 
 ### ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
