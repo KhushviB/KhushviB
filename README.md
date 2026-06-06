@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:bamroliakhushvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-bamroliakhushvi@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/khushvi/"><img src="https://img.shields.io/badge/LinkedIn-Khushvi-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/khusshvii/"><img src="https://img.shields.io/badge/LinkedIn-Khushvi-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/KhushviB"><img src="https://img.shields.io/badge/GitHub-KhushviB-black?style=flat-square&logo=github"/></a>
 </p>
 
