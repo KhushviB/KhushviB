@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khushvi+Bamrolia!;" />
 </h1>
-<h3 align="center">I build scalable systems, design creative solutions, and love solving hard tech problems.</h3>
+<h3 align="center">AI Engineer · Bioinformatics · Astrophysics · Neural Systems · Distributed Infrastructure · Market Image Consultancy</h3>
 
 <p align="center">
   <a href="mailto:bamroliakhushvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-bamroliakhushvi@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -10,35 +10,16 @@
 </p>
 
 ---
-<!-- Header -->
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  K H U S H V I   B A M R O L I A
-  Bioinformatics  ·  Astrophysics  ·  Neural Systems
-  Distributed Infrastructure  ·  Market Image Consultancy
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-[![Email](https://img.shields.io/badge/Gmail-bamroliakhushvi@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bamroliakhushvi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khusshvii-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khusshvii/)
-[![CoffeeQL](https://img.shields.io/badge/CoffeeQL-coffeeql.dev-8B4513?style=flat-square)](https://coffeeql.dev)
-[![X](https://img.shields.io/badge/X-@KhushviBamrolia-black?style=flat-square&logo=x)](https://x.com/KhushviBamrolia)
-
-</div>
-
----
 
 ## What I Work On
 
-I operate across four disciplines simultaneously — not as adjacent interests, but as a single computational lens trained on different substrates.
+I operate across four disciplines simultaneously - not as adjacent interests, but as a single computational lens trained on different substrates.
 
 **Bioinformatics & Genomics**
-Graph Neural Networks on pangenome graphs for structural variant calling. I work at the representation layer of biological data — where sequences become graphs, graphs become node embeddings, and population-level variation becomes a classification problem. I understand variant calling pipelines, VCF parsing, haplotype-resolved assemblies, and the graph topology of minigraph-cactus pangenomes. I think about genomic data the way systems engineers think about distributed state: consistency, coverage, and fault tolerance.
+Graph Neural Networks on pangenome graphs for structural variant calling. I work at the representation layer of biological data, where sequences become graphs, graphs become node embeddings, and population-level variation becomes a classification problem. I understand variant calling pipelines, VCF parsing, haplotype-resolved assemblies, and the graph topology of minigraph-cactus pangenomes. I think about genomic data the way systems engineers think about distributed state: consistency, coverage, and fault tolerance.
 
 **Astrophysics & Complex Systems**
-Orbital mechanics, cosmological structure formation, gravitational wave signatures, and the statistical methods that extract signal from noise at scale. The math here — differential geometry, perturbation theory, Bayesian inference on sparse observations — transfers cleanly into other domains. I treat physical law as a framework for thinking about constraints, symmetry-breaking, and emergent behavior.
+Orbital mechanics, cosmological structure formation, gravitational wave signatures, and the statistical methods that extract signal from noise at scale. The math here — differential geometry, perturbation theory, Bayesian inference on sparse observations, transfers cleanly into other domains. I treat physical law as a framework for thinking about constraints, symmetry-breaking, and emergent behavior.
 
 **Neural Research & Computational Neuroscience**
 Cortical circuit dynamics, spike-train statistics, neural population codes, and the mapping problem between biological and artificial neural networks. I read primary literature. I think about how representational geometry in transformer attention heads relates to what we know about hippocampal place cells. The boundary between machine learning and systems neuroscience is where the most interesting problems live.
@@ -52,7 +33,7 @@ I build here. Rust-native query orchestration, multi-model storage engines, fail
 
 How a business is *perceived* determines its ceiling more than the product itself. I work with businesses on that gap — between how they actually are and how the market reads them.
 
-The engagement is weekly and sustained. Not a one-time audit, not a brand deck handed over and forgotten. I work closely with founders and operators to diagnose what their current market image communicates, identify the specific delta between that and what it *should* communicate, and then systematically close it — through positioning, visual language, messaging consistency, and the intangible signals that make a business feel authoritative or forgettable.
+The engagement is weekly and sustained. Not a one-time audit, not a brand deck handed over and forgotten. I work closely with founders and operators to diagnose what their current market image communicates, identify the specific delta between that and what it *should* communicate, and then systematically close it.... through positioning, visual language, messaging consistency, and the intangible signals that make a business feel authoritative or forgettable.
 
 The result over time is a business that doesn't need to explain itself. Its market presence does the work.
 
@@ -66,7 +47,7 @@ If you're building something and you want the outside world to perceive it at th
 |---|---|
 | **[Ariadne / PanGNN](https://github.com/KhushviB/ariadne)** | Graph Neural Network for structural variant calling on pangenome graphs. PyTorch Geometric, PGAT architecture, class-imbalance handling, GPU-trained on RTX 4060. Targeting Oxford Bioinformatics. |
 | **[CoffeeQL](https://github.com/KhushviB/coffeeql)** | Universal query orchestration engine in Rust. `db.explain()`, `FailureMode` semantics, PyO3 Python bindings, npm + PyPI published. |
-| **BobaDB** | Multi-model database engine in Rust. Custom storage, zero-compromise architecture. |
+| **BobaDB** (WIP) | Multi-model database engine in Rust. Custom storage, zero-compromise architecture. |
 
 ---
 
@@ -96,7 +77,7 @@ If you're building something and you want the outside world to perceive it at th
 
 ## How I Think
 
-The fields I work in share a structure: high-dimensional data, sparse ground truth, and the need to learn representations that generalize. Whether that's a pangenome graph, a neural population recording, or a cosmological simulation — the mathematical skeleton is the same. Sparse signals embedded in complex topology, decoded by learned representations.
+The fields I work in share a structure: high-dimensional data, sparse ground truth, and the need to learn representations that generalize. Whether that's a pangenome graph, a neural population recording, or a cosmological simulation, the mathematical skeleton is the same. Sparse signals embedded in complex topology, decoded by learned representations.
 
 I write systems software because I need to understand what's happening at every layer. I do research because the unsolved problems are where the interesting engineering lives.
 
@@ -116,7 +97,7 @@ I write systems software because I need to understand what's happening at every 
 
 <div align="center">
 
-*Rajkot, India · [khushvi-bamrolia.vercel.app](https://khushvi-bamrolia.vercel.app) · [medium.com/@bamroliakhushvi](https://medium.com/@bamroliakhushvi)*
+*India · [khushvi-bamrolia.vercel.app](https://khushvi-bamrolia.vercel.app) · [medium.com/@bamroliakhushvi](https://medium.com/@bamroliakhushvi)*
 
 </div>
 
