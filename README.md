@@ -31,7 +31,7 @@ I build here. Rust-native query orchestration, multi-model storage engines, fail
 
 ## Market Image Consultancy
 
-How a business is *perceived* determines its ceiling more than the product itself. I work with businesses on that gap — between how they actually are and how the market reads them.
+How a business is *perceived* determines its ceiling more than the product itself. I work with businesses on that gap, between how they actually are and how the market reads them.
 
 The engagement is weekly and sustained. Not a one-time audit, not a brand deck handed over and forgotten. I work closely with founders and operators to diagnose what their current market image communicates, identify the specific delta between that and what it *should* communicate, and then systematically close it.... through positioning, visual language, messaging consistency, and the intangible signals that make a business feel authoritative or forgettable.
 
@@ -45,7 +45,7 @@ If you're building something and you want the outside world to perceive it at th
 
 | Project | What it is |
 |---|---|
-| **[Ariadne / PanGNN](https://github.com/KhushviB/ariadne)** | Graph Neural Network for structural variant calling on pangenome graphs. PyTorch Geometric, PGAT architecture, class-imbalance handling, GPU-trained on RTX 4060. Targeting Oxford Bioinformatics. |
+| **[Ariadne / PanGNN](https://github.com/KhushviB/ariadne)** | Graph Neural Network for structural variant calling on pangenome graphs. PyTorch Geometric, PGAT architecture, class-imbalance handling, GPU-trained on H100 GPU |
 | **[CoffeeQL](https://github.com/KhushviB/coffeeql)** | Universal query orchestration engine in Rust. `db.explain()`, `FailureMode` semantics, PyO3 Python bindings, npm + PyPI published. |
 | **BobaDB** (WIP) | Multi-model database engine in Rust. Custom storage, zero-compromise architecture. |
 
@@ -53,25 +53,94 @@ If you're building something and you want the outside world to perceive it at th
 
 ## Technical Depth
 
-**Languages I think in:**
+**Languages**
 
-![Rust](https://img.shields.io/badge/Rust-Systems%20%26%20Infra-orange?style=flat-square&logo=rust)
-![Python](https://img.shields.io/badge/Python-ML%20%26%20Bioinformatics-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Web%20Systems-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**What I work with in bioinformatics:**
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-GNN%20%26%20Research-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PyG](https://img.shields.io/badge/PyTorch_Geometric-Graph%20Neural%20Nets-orange?style=flat-square)
-![BioPython](https://img.shields.io/badge/BioPython-Sequence%20Analysis-green?style=flat-square)
+**AI / ML / Research**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-Graph%20Neural%20Networks-orange?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square)
+![CUDA](https://img.shields.io/badge/CUDA-GPU%20Training-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+---
+
+**Bioinformatics & Computational Biology**
+
+![BioPython](https://img.shields.io/badge/BioPython-Sequence%20Analysis-3d8c40?style=flat-square)
 ![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Processing-blue?style=flat-square)
+![Pangenome Graphs](https://img.shields.io/badge/Pangenome_Graphs-minigraph--cactus-8B0000?style=flat-square)
+![VCF Parsing](https://img.shields.io/badge/VCF%20%2F%20Variant%20Calling-Structural%20Variants-6A0DAD?style=flat-square)
+![GFF3](https://img.shields.io/badge/GFF3%20%2F%20BED%20%2F%20FASTA-Genomic%20Formats-2E8B57?style=flat-square)
+![pysam](https://img.shields.io/badge/pysam-SAM%2FBAM%20Processing-4682B4?style=flat-square)
 
-**Infrastructure:**
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-336791?style=flat-square&logo=postgresql&logoColor=white)
-![CosmosDB](https://img.shields.io/badge/Azure%20CosmosDB-Distributed-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
+**Astrophysics & Physics**
+
+![Astropy](https://img.shields.io/badge/Astropy-Astronomical%20Computing-1F4E79?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Computing-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Bayesian Inference](https://img.shields.io/badge/Bayesian%20Inference-Sparse%20Observations-5C3D8F?style=flat-square)
+![Differential Geometry](https://img.shields.io/badge/Differential%20Geometry-Mathematical%20Physics-B8860B?style=flat-square)
+![Signal Processing](https://img.shields.io/badge/Signal%20Processing-Gravitational%20Waves-2F4F4F?style=flat-square)
+
+---
+
+**Neuroscience & Cognitive Systems**
+
+![Spike Analysis](https://img.shields.io/badge/Spike--Train%20Statistics-Neural%20Coding-8B0057?style=flat-square)
+![Population Codes](https://img.shields.io/badge/Neural%20Population%20Codes-Representational%20Geometry-C71585?style=flat-square)
+![Connectomics](https://img.shields.io/badge/Connectomics-Circuit%20Dynamics-800080?style=flat-square)
+![Neurosymbolic AI](https://img.shields.io/badge/Neurosymbolic%20AI-Bio--AI%20Mapping-4B0082?style=flat-square)
+
+---
+
+**Frontend & Design**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-Low%20Code%20UI-5C6BC0?style=flat-square)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-Systems%20%26%20Interaction-FF6B6B?style=flat-square)
+
+---
+
+**Full Stack & Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-Architecture-FF6F00?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Real--time-009688?style=flat-square)
+![PyO3](https://img.shields.io/badge/PyO3-Rust%20%E2%86%92%20Python%20Bindings-DC143C?style=flat-square)
+
+---
+
+**Databases & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Azure CosmosDB](https://img.shields.io/badge/Azure%20CosmosDB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
 
 ---
 
