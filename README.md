@@ -63,8 +63,6 @@ If you're building something and you want the outside world to perceive it at th
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
-
 **AI / ML / Research**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -76,8 +74,6 @@ If you're building something and you want the outside world to perceive it at th
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square)
 ![CUDA](https://img.shields.io/badge/CUDA-GPU%20Training-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
----
-
 **Bioinformatics & Computational Biology**
 
 ![BioPython](https://img.shields.io/badge/BioPython-Sequence%20Analysis-3d8c40?style=flat-square)
@@ -87,8 +83,6 @@ If you're building something and you want the outside world to perceive it at th
 ![GFF3](https://img.shields.io/badge/GFF3%20%2F%20BED%20%2F%20FASTA-Genomic%20Formats-2E8B57?style=flat-square)
 ![pysam](https://img.shields.io/badge/pysam-SAM%2FBAM%20Processing-4682B4?style=flat-square)
 
----
-
 **Astrophysics & Physics**
 
 ![Astropy](https://img.shields.io/badge/Astropy-Astronomical%20Computing-1F4E79?style=flat-square)
@@ -97,16 +91,12 @@ If you're building something and you want the outside world to perceive it at th
 ![Differential Geometry](https://img.shields.io/badge/Differential%20Geometry-Mathematical%20Physics-B8860B?style=flat-square)
 ![Signal Processing](https://img.shields.io/badge/Signal%20Processing-Gravitational%20Waves-2F4F4F?style=flat-square)
 
----
-
 **Neuroscience & Cognitive Systems**
 
 ![Spike Analysis](https://img.shields.io/badge/Spike--Train%20Statistics-Neural%20Coding-8B0057?style=flat-square)
 ![Population Codes](https://img.shields.io/badge/Neural%20Population%20Codes-Representational%20Geometry-C71585?style=flat-square)
 ![Connectomics](https://img.shields.io/badge/Connectomics-Circuit%20Dynamics-800080?style=flat-square)
 ![Neurosymbolic AI](https://img.shields.io/badge/Neurosymbolic%20AI-Bio--AI%20Mapping-4B0082?style=flat-square)
-
----
 
 **Frontend & Design**
 
@@ -118,8 +108,6 @@ If you're building something and you want the outside world to perceive it at th
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-Low%20Code%20UI-5C6BC0?style=flat-square)
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-Systems%20%26%20Interaction-FF6B6B?style=flat-square)
 
----
-
 **Full Stack & Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -128,8 +116,6 @@ If you're building something and you want the outside world to perceive it at th
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-Real--time-009688?style=flat-square)
 ![PyO3](https://img.shields.io/badge/PyO3-Rust%20%E2%86%92%20Python%20Bindings-DC143C?style=flat-square)
-
----
 
 **Databases & Infrastructure**
 
